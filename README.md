@@ -44,3 +44,34 @@
 
 ## 📁 Estructura del Proyecto
 
+
+---
+
+## ⚙️ Requisitos Previos
+
+Antes de instalar, asegúrate de tener lo siguiente:
+
+- ✅ [XAMPP](https://www.apachefriends.org/index.html) (con Apache y PHP)
+- ✅ PostgreSQL
+- ✅ Navegador web moderno (Chrome, Firefox, etc.)
+- ✅ Cuenta en [Supabase](https://supabase.com/) *(opcional para autenticación)*
+
+---
+
+## 🚀 Instalación y Ejecución
+
+### 1️⃣ Clonar el repositorio
+
+```bash
+git clone https://github.com/tu-usuario/pet-store.git
+
+
+---
+
+### ✅ Siguientes pasos:
+
+- 📸 Asegúrate de agregar una imagen de vista previa (`screenshot.png`) real.
+- 🧩 Sube un archivo `database.sql` con la estructura de tu base de datos.
+- 🔐 Si usas autenticación de Supabase, documenta su uso más a fondo en un archivo adicional como `AUTH.md`.
+
+¿Te gustaría que también te ayude generando el archivo `database.sql` con una estructura inicial de tablas para productos, usuarios, pedidos, etc.?
